@@ -36,28 +36,28 @@ This dataset contains shopping information from 10 different shopping malls betw
 
 4. **Process**
 
- Data Exploration:
- - Used power bi to clean the dataset.
- - Checked for missing or inconsistent data.
+  Data Exploration:
+  - Used power bi to clean the dataset.
+  - Checked for missing or inconsistent data.
 
- Data Analysis in SQL:
- - Performed queries to calculate total purchases, revenue, and distributions by gender and age.
- - Grouped data by category, payment_method, and other columns to identify patterns.
+  Data Analysis in SQL:
+  - Performed queries to calculate total purchases, revenue, and distributions by gender and age.
+  - Grouped data by category, payment_method, and other columns to identify patterns.
 
- Visualization in Power BI:
- - Created visuals such as bar charts, pie charts, and heatmaps to represent gender-wise, age-wise, and payment method distributions.
- - Designed dashboards with KPIs and slicers for interactive exploration.
+  Visualization in Power BI:
+  - Created visuals such as bar charts, pie charts, and heatmaps to represent gender-wise, age-wise, and payment method distributions.
+  - Designed dashboards with KPIs and slicers for interactive exploration.
 
 5. **Insights and Recommendations**
    
- Insights:
- - Female customers purchased more products and generated higher revenue compared to males.
- - Customers in the age group 25–34 were the most active shoppers and the largest contributors to revenue.
- - Cash was the most preferred payment method, especially for lower-value purchases.
+  Insights:
+  - Female customers purchased more products and generated higher revenue compared to males.
+  - Customers in the age group 25–34 were the most active shoppers and the largest contributors to revenue.
+  - Cash was the most preferred payment method, especially for lower-value purchases.
 
- Recommendations:
- - Introduce targeted marketing campaigns for the 25–34 age group and female customers.
- - Offer discounts or incentives on non-cash payment methods to diversify payment preferences.
+  Recommendations:
+  - Introduce targeted marketing campaigns for the 25–34 age group and female customers.
+  - Offer discounts or incentives on non-cash payment methods to diversify payment preferences.
 
 6. **Tools Used**
 
